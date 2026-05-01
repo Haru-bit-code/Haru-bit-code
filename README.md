@@ -52,7 +52,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Haru-bit-code&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haru-bit-code&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="38%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haru-bit-code&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="38%"/>
 </p>
 
 ---
