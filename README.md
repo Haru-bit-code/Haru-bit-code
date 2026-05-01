@@ -44,7 +44,7 @@
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
 | 🔮 **Customer Churn Predictor** | XGBoost model predicting telecom churn with real-time scoring dashboard | [▶ Live App](https://customer-churn-prediction-jiunirmyc3djqn9yfhvctb.streamlit.app/) |
-| 📊 **Causal Marketing Attribution** | Estimating true causal lift of marketing campaigns using Double ML | [GitHub](https://github.com/Haru-bit-code/casual-marketing-attribution) |
+| 📄 **DocChat — RAG Chatbot** | Ask questions about any PDF using LangChain, Groq LLM and FAISS vector search | [▶ Live App](https://rag-document-chatbot-bwcju5lannbmbapddhvfmb.streamlit.app/) |
 
 ---
 
