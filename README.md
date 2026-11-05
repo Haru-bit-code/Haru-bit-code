@@ -112,9 +112,6 @@ looking_for: AI/ML Engineer · Data Scientist · Data Analyst — India, UAE or 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Haru-bit-code&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=2F81F7&icon_color=2F81F7" height="150" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haru-bit-code&layout=compact&hide_border=true&theme=transparent&title_color=2F81F7" height="150" alt="Top languages"/>
-
 <sub>Open to AI/ML roles in India, the UAE and remote — the fastest way to reach me is <a href="mailto:ansarkamal9@gmail.com">email</a> or <a href="https://www.linkedin.com/in/ansarkamal/">LinkedIn</a>.</sub>
 
 </div>
